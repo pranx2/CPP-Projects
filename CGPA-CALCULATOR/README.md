@@ -14,3 +14,4 @@ PROGRAM OUTPUT:
 
 Program by Pranto 09-01-2024
 
+### Just Click on the program [program](CGPA-CALCULATOR/main.exe)
