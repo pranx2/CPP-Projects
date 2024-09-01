@@ -1,0 +1,16 @@
+# CGPA-CALCULATOR
+
+## A SIMPLE CLI TYPE CALCULATOR WHICH CALCULATE THE POINT GRADE AND RETURN THE GRADES;
+
+USER INPUT:
+
+- grade
+- credit
+
+PROGRAM OUTPUT:
+
+- Grade point
+- Grade Sheet
+
+Program by Pranto 09-01-2024
+
